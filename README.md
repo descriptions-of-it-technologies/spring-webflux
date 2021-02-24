@@ -25,6 +25,12 @@
 
 
 
+## Spring Reactive Types
+* Two new reactive types are introduced with Spring Framework 5.
+* "Mono" is a publisher with zero or one elements in data stream.
+* "Flux" is a publisher with zero or MANY elements in the data stream.
+* Both types implement the Reactive Streams Publisher interface.
+
 
 
 ## Spring WebFlux details.
